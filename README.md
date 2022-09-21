@@ -1,2 +1,5 @@
-# vue-jest
-Vue 2 jest messaging app with circleCi
+#Troubleshooting installation
+
+- jest.config
+- type: module
+- use BRIDGE version of babel-core
