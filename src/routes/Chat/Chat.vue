@@ -5,7 +5,7 @@
         <h1>
 
 
-            Globoticket Customer Service Chat
+            Kats Customer Service Chat
 
         </h1>
 
