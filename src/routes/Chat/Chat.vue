@@ -5,7 +5,7 @@
         <h1>
 
 
-            Kats Customer Service Chat
+            Kats Customer Service Chats
 
         </h1>
 
